@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshuman18-4
-- 👀 I’m interested in Coding and Graphic designing
-- 🌱 I’m currently learning c++ and photoshop
+- 👀 I’m interested in Coding and Web Development
+- 🌱 I’m currently learning Web Development and have a basic knowledge of C++ and JAVA
 - 📫 How to reach me :- https://github.com/anshuman18-4
 
 <!---
