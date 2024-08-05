@@ -11,6 +11,7 @@ Supply Chain Management: Proficient in managing end-to-end supply chain processe
 Programming Languages: Python, SQL
 
 - 📫 How to reach me:- https://github.com/anshuman18-4
+- LinkedIN - https://www.linkedin.com/in/anshuman-raj-81818b1b7/
 
 <!---
 anshuman18-4/anshuman18-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
